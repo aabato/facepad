@@ -10,6 +10,8 @@
 
 Our app is going to be a simple two-page user feed browser. The first screen will be a table view with a list of usernames. Tapping on a username in that table view will push a user detail screen, with posts from the user that was tapped.
 
+**For tests to pass, be sure to check the `FISNewsFeedTableViewControllerSpec.m` and `FISUserSpec.m` to see how classes and properties should be named.**
+
 Let's start by making our model classes, since those are pretty straightforward.
 
 ### The Models
@@ -47,3 +49,5 @@ Alright! Let's tie it all together.
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/facepad' title='Facepad'>Facepad</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/facepad'>(advanced) Facepad - Dynamic Custom Cells</a> on Learn.co and start learning to code for free.</p>
